@@ -1,0 +1,11 @@
+.carousel-inner img {
+    margin: auto;
+    max-width: 50%;
+    max-height: 50%;
+    }
+    h1 {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 40%; 
+    } 
